@@ -23,7 +23,7 @@ class MainActivity : ComponentActivity() {
                     color = MaterialTheme.colors.background
                 ) {
                     Greeting("Android")
-                    This is badly formatted code.
+                    //This is badly formatted code.
                 }
             }
         }
